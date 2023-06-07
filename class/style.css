@@ -1,0 +1,21 @@
+body{
+  background-color: aqua;
+}
+
+h1{
+  color: blue;
+  font-size: 100px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+  text-align: center;
+  
+}
+
+#hello{
+  color: red;
+}
+
+.test{
+  color: orange;
+}
